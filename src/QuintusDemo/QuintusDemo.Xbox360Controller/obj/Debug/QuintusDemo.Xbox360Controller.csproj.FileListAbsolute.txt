@@ -1,0 +1,12 @@
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\bin\Debug\QuintusDemo.Xbox360Controller.exe.config
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\bin\Debug\QuintusDemo.Xbox360Controller.exe
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\bin\Debug\QuintusDemo.Xbox360Controller.pdb
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\bin\Debug\SharpDX.dll
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\bin\Debug\SharpDX.XInput.dll
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\bin\Debug\XSockets.Client40.dll
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\bin\Debug\SharpDX.xml
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\bin\Debug\SharpDX.XInput.xml
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\obj\Debug\QuintusDemo.Xbox360Controller.csprojResolveAssemblyReference.cache
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\obj\Debug\QuintusDemo.Xbox360Controller.exe
+C:\Users\Uffe\Desktop\QuintusDemo\QuintusDemo.Xbox360Controller\obj\Debug\QuintusDemo.Xbox360Controller.pdb

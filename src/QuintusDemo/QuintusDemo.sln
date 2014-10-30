@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuintusDemo", "QuintusDemo\QuintusDemo.csproj", "{2AC29035-9122-4BE8-99C7-FD7BD6024FED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuintusDemo.Xbox360Controller", "QuintusDemo.Xbox360Controller\QuintusDemo.Xbox360Controller.csproj", "{4EF3C2C2-42B1-44FE-BBB4-9FF63B41FDF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuintusDemo.Server", "QuintusDemo.Server\QuintusDemo.Server.csproj", "{0F3293E7-34E1-4867-8C1C-08C2C1873EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC29035-9122-4BE8-99C7-FD7BD6024FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC29035-9122-4BE8-99C7-FD7BD6024FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC29035-9122-4BE8-99C7-FD7BD6024FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC29035-9122-4BE8-99C7-FD7BD6024FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF3C2C2-42B1-44FE-BBB4-9FF63B41FDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF3C2C2-42B1-44FE-BBB4-9FF63B41FDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF3C2C2-42B1-44FE-BBB4-9FF63B41FDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF3C2C2-42B1-44FE-BBB4-9FF63B41FDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3293E7-34E1-4867-8C1C-08C2C1873EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3293E7-34E1-4867-8C1C-08C2C1873EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3293E7-34E1-4867-8C1C-08C2C1873EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3293E7-34E1-4867-8C1C-08C2C1873EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
