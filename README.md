@@ -28,4 +28,12 @@ All code is under the "src" folder, but the Quintur module that I had to add wsa
 
 The only magic in this is the SharpDX.XInput library that I installed from nuget.
 
+### Sample Video
+
+I recorded a [very simple demo](http://youtu.be/QlEGF9nwSJc) with my phone
+
+
+----------
+
+
 If you have any questions, feel free to contact me. My email is uffe [at] xsockets.net
